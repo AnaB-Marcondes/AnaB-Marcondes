@@ -13,4 +13,3 @@ I have studied Power BI, SQL, and Python extensively for data analysis.
 - 📫 How to reach me: anabmarcondes (LinkedIn)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love being a vegetarian 
--->
